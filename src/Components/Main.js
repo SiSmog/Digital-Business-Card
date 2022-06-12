@@ -10,7 +10,7 @@ const Main = () => {
                 <a href='mailto:majdirekik60@gmail.com'>
                     <div className='button' id='mailbutton'>
                         <div>
-                            <img src={mail} className='buttonicon' />
+                            <img src={mail} className='buttonicon' alt='' />
                         </div>
                         <div>
                             <span>Email</span>
@@ -20,7 +20,7 @@ const Main = () => {
                 <a href="/Files/Cv.pdf" download>
                     <div className='button' id='downloadbutton'>
                         <div>
-                            <img src={download1} className='buttonicon' />
+                            <img src={download1} className='buttonicon' alt='' />
                         </div>
                         <div>
                             <span>CV</span>

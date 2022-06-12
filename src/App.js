@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 
 import Image from "./Components/Image.js"
 import Footer from "./Components/Footer.js"

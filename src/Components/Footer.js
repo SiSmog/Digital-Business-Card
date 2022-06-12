@@ -6,9 +6,9 @@ import facebook from "../Icons/facebook.png"
 const Footer = () => {
   return (
     <div className="footer">
-        <a href='https://www.linkedin.com/in/majdi-rekik/' target='_blank' className='iconl'><img src={linkedin} className='icon' /></a>
-        <a href='https://github.com/SiSmog' target='_blank' className='iconl'><img src={github}className='icon'/></a>
-        <a href='https://www.facebook.com/majdi.rekik.5' target='_blank' className='iconl'><img src={facebook}className='icon'/></a>
+        <a href='https://www.linkedin.com/in/majdi-rekik/' target='_blank' rel="noreferrer" className='iconl'><img src={linkedin} className='icon' alt='' /></a>
+        <a href='https://github.com/SiSmog' target='_blank' rel="noreferrer" className='iconl'><img src={github}className='icon' alt=''/></a>
+        <a href='https://www.facebook.com/majdi.rekik.5' target='_blank' rel="noreferrer" className='iconl'><img src={facebook}className='icon' alt=''/></a>
     </div>
   )
 }
