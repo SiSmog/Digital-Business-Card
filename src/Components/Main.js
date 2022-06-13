@@ -41,7 +41,7 @@ const Main = () => {
                 <div>
                     <h2 className='title'>Interests</h2>
                     <p className='description'>
-                        Meme lord. Video games enthusiast. Food expert. Music scholar. Reader. Internet fanatic. Travel geek. Coffee fanatic.
+                        Meme lord. Video games enthusiast. Food expert. Music scholar. Internet fanatic. Coffee fanatic.
                     </p>
                 </div>
             </div>
