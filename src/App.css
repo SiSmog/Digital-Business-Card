@@ -5,6 +5,9 @@
   .button{
     width: 100px;
   }
+  .myimg{
+    background-image: url("./Majdi2.PNG");
+  }
 }
 @media only screen and (min-width: 400px){
   .center,.myimg,.center,.main{
@@ -12,6 +15,9 @@
   }
   .button{
     width: 120px;
+  }
+  .myimg{
+    background-image: url("./Majdi2.PNG");
   }
 }
 @media only screen and (min-width: 600px){
@@ -21,6 +27,9 @@
   .button{
     width: 130px;
   }
+  .myimg{
+    background-image: url("./Majdi.jpg");
+  }
 }
 @media only screen and (min-width: 800px){
   .center,.myimg,.center,.main{
@@ -28,6 +37,9 @@
   }
   .button{
     width: 150px;
+  }
+  .myimg{
+    background-image: url("./Majdi.jpg");
   }
 }
 *{
@@ -112,7 +124,7 @@ h2{
   border-top-right-radius:10px;
   
   height:420px;
-  background-image: url("./Majdi.jpg");
+
   background-size: cover;
   background-color: #1A1B21;
 }
