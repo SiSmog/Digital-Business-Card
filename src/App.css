@@ -3,7 +3,19 @@
     width: 300px;
   }
   .button{
-    width: 110px;
+    width: 100px;
+  }
+  .h1{
+    font-size: 35px;
+  }
+  .h4{
+    font-size: 16px;
+  }
+  .icon{
+    width: 40px;
+  }
+  .span{
+    font-size: 14px;
   }
   .myimg{
     background-image: url("./Majdi2.PNG");
@@ -63,7 +75,6 @@ h1{
   font-family: 'Calibri';
   font-style: normal;
   font-weight: 900;
-  font-size: 41px;
   line-height: 150%;
   color: white;
 }
@@ -110,7 +121,6 @@ h2{
   border-radius: 10px;
 }
 .icon{
-  width: 50px;
   height: auto;
 }
 .icon:hover
@@ -146,8 +156,7 @@ span{
   font-family: 'Calibri';
   font-style: normal;
   font-weight: 800;
-  font-size: 18px;
-  line-height: 16px;
+  line-height: 100%;
 }
 
 
